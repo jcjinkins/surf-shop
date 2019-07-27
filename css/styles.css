@@ -20,3 +20,7 @@
     height: 15vw;
     object-fit: cover;
 }
+
+.btn btn-primary {
+    color: #0B4451;
+}
