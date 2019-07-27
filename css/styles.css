@@ -3,6 +3,7 @@
     height: 80%;
     background-size: 100%;
     background-repeat: no-repeat;
+    color: #0B4451;
   }
 
   .card-img-top {
@@ -26,5 +27,6 @@
 }
 
 .footer-copyright {
-    color: #303030;
+    color: white;
+    background-color: #303030;
 }
